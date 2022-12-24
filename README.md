@@ -1,2 +1,2 @@
-# New-code
+# Merge, Quick sort
 description
