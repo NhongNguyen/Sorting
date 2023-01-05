@@ -1,0 +1,11 @@
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.MainForm.resources
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\NhongNguyen\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
